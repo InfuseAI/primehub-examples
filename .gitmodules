@@ -1,0 +1,3 @@
+[submodule "data/primehub-screw-detection"]
+	path = data/primehub-screw-detection
+	url = https://github.com/InfuseAI/primehub-screw-detection.git
